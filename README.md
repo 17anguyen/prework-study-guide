@@ -1,12 +1,7 @@
 # Prework Study Guide 
-## Study guide created for referencing HTML, CSS, Git, and JavaScript
+## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Study guide created for referencing HTML, CSS, Git, and JavaScript. this Study guide was created in bootcamp Prework to contain notes.
 
 ## Installation
 
@@ -24,4 +19,4 @@ N/A
 
 ## License
 
-MIT license 
+MIT license asdf
